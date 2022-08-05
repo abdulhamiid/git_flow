@@ -1,10 +1,5 @@
 # git_flow
 > Trying out git flow, best practices and resolving merge coflict.
-## Built With
-
-- HTML & CSS
-
-
 ## Author
 
 👤 **Abdulhamid**
