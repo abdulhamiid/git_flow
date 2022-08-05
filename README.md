@@ -1,5 +1,5 @@
 # git_flow
-> Trying out git flow, best practices and resolving merge coflict.
+> Trying out git flow, best practices and resolving merge conflict.
 ## Author
 
 👤 **Abdulhamid**
